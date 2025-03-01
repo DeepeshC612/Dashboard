@@ -14,7 +14,6 @@ This is a single-page dashboard application built using React and TypeScript wit
 - **State Management**: Context API
 - **Styling**: Tailwind CSS
 - **Charts**: ApexCharts
-- **Calendar**: FullCalendar
 - **Networking**: Axios for API requests
 - **Routing**: React Router
 
